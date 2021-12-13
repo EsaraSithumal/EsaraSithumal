@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @EsaraSithumal , a 3rd year undercraduate of department of computer engineering, University of Peradeniya
-- 👀 I’m interested in Programming, Web Application Development and Networking.
-- 🌱 I’m currently learning 
-            Networking
-            Network Security and Cryptography
-            Embedded Systems
-            Web application development
+- 👀 I’m interested in Web Application Development and Embedded Systems.
+- 🌱 I’m currently learning,
+            -- Cryptography
+            -- ML
 - 📫 How to reach me :</br>
             via gmail - Wmesithumal2@gmail.com </br>
             linkedIn profile - https://www.linkedin.com/in/esara-sithumal-95858620b
