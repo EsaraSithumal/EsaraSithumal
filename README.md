@@ -8,7 +8,7 @@
   <img  src="./assets/grid-snake.svg"
        alt="snake" /></a>
 </div>
-</br></br>
+</br>
 <!-- <div>
    <samp>
       <h2 align="center"> About Me! 😎 </h2>
@@ -33,7 +33,6 @@
          <img src="./assets/Tools/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
          <img src="./assets/Tools/css3-original-wordmark.svg" alt="html5" width="60" height="60"/> 
       </div>
-      </br>
       <div>
          <summary><h3>Frameworks & Libraries</h3></summary>
          <img src="./assets/Tools/nodejs-original-wordmark.svg" alt="c" width="60" height="60"/> 
@@ -41,13 +40,11 @@
          <img src="./assets/Tools/react-original-wordmark.svg" alt="c" width="60" height="60"/>
          <img src="./assets/Tools/flutter.png" alt="c" width="60" height="60"/>
       </div>
-      </br>
       <div>
          <summary><h3>Database</h3></summary>
          <img src="./assets/Tools/mongo-db.svg" alt="c" width="60" height="60"/> 
          <img src="./assets/Tools/sql.svg" alt="c" width="60" height="60"/>
       </div>
-      </br>
       <div>
          <summary><h3>Other Tools & Technologies</h3></summary>
          <img src="./assets/Tools/git.svg" alt="git" width="60" height="60"/> 
@@ -59,7 +56,7 @@
       </div>
    </samp>
 </div>
-</br></br>
+</br>
 <div>
     <samp>
          <h2 align="center"> 💻 GitHub Profile Stats <img width="20" src="./assets/stats.gif"></h2>
@@ -94,7 +91,6 @@
 <div>
    <samp>
    <h3 align="center">🔗 Connect with me:</h3>
-   </br>
    <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esara-sithumal/)
